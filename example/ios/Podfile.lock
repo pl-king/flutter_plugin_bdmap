@@ -1,0 +1,28 @@
+PODS:
+  - bdmap_location_flutter_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - "permission_handler (4.2.0+hotfix.3)":
+    - Flutter
+
+DEPENDENCIES:
+  - bdmap_location_flutter_plugin (from `.symlinks/plugins/bdmap_location_flutter_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+EXTERNAL SOURCES:
+  bdmap_location_flutter_plugin:
+    :path: ".symlinks/plugins/bdmap_location_flutter_plugin/ios"
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  bdmap_location_flutter_plugin: 90ebaeaa0ebec0856403d14fb83835daf1817e15
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  permission_handler: 40520ab8ad1bb78a282b832464e995ec87f77ec6
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
